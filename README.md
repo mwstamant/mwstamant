@@ -1,5 +1,5 @@
 
-<a rel="me" href="https://twit.social/@drmitch">Mastodon</a>
+<a rel="me" href="https://twit.social/@drmitch"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwstamant&theme=dark)
 
