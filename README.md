@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwstamant&theme=dark)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwstamant&hide=issues&show_icons=true&theme=dark)
 <!--
 **mwstamant/mwstamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
