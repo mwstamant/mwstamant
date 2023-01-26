@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwstamant&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwstamant&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwstamant&hide=issues&show_icons=true&theme=dark)
 <!--
